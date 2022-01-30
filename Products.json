@@ -1,0 +1,27 @@
+[
+  {
+    "Product_id": 1,
+    "Price": 50.9900017,
+    "Product_name": "Масло"
+  },
+  {
+    "Product_id": 2,
+    "Price": 90,
+    "Product_name": "Ветчина"
+  },
+  {
+    "Product_id": 3,
+    "Price": 30,
+    "Product_name": "Хлеб"
+  },
+  {
+    "Product_id": 4,
+    "Price": 570,
+    "Product_name": "Книга"
+  },
+  {
+    "Product_id": 5,
+    "Price": 199,
+    "Product_name": "Батарейки"
+  }
+]
